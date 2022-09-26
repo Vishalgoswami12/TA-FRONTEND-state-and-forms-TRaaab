@@ -1,4 +1,4 @@
-{
+const data={
   "products": [
     {
       "availableSizes": ["S", "XS"],
@@ -210,3 +210,6 @@
     }
   ]
 }
+
+
+export default data;
